@@ -14,17 +14,6 @@ Mutation for graphene with sqlAlchemy
 Usage
 -----
 
-Installation
-------------
-
-Requirements
-^^^^^^^^^^^^
-
-Compatibility
--------------
-
-Licence
--------
 
 Authors
 -------
